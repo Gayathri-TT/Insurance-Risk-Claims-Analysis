@@ -30,7 +30,6 @@ The dashboard helps stakeholders understand
 * Goal of the dashboard
   To create a centralized, interactive Power BI dashboard that provides clear KPI insights and enables deep analysis of policyholder demographics, vehicle details, and claim behaviors.
 
-## 6. Demos / Screenshots
-Dashboard - 
-Screenshot of Dashboard -n
+## 6.Screenshots
+Screenshot of Dashboard - (https://github.com/Gayathri-TT/Insurance-Risk-Claims-Analysis/blob/main/Insurance%20Risk%20%26%20Claims%20Analysis.png)
 
